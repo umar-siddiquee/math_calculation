@@ -8,3 +8,13 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.cdt.core 1 0 2019-12-27 08:44:33.095
 !MESSAGE Indexed 'Math_calculation' (1 sources, 177 headers) in 7.63 sec: 13,729 declarations; 21,622 references; 0 unresolved inclusions; 0 syntax errors; 6 unresolved names (0.017%)
+!SESSION 2019-12-27 09:26:33.123 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=11.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-12-27 09:26:42.585
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

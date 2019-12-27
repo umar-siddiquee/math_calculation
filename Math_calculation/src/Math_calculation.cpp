@@ -14,7 +14,7 @@ int main() {
 
 	cout << "Enters the sides of the triangle:\n";
 	cin >> a >> b;
-	c= 0.5*a*b;
+	c= (1/2)*a*b;
 	cout << "Area of a triangle is: " << c;
 	return 0;
 }
