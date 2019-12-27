@@ -1,0 +1,27 @@
+08:51:38 **** Build of configuration Debug for project Math_calculation ****
+make all 
+Building file: ../src/Math_calculation.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Math_calculation.d" -MT"src/Math_calculation.o" -o "src/Math_calculation.o" "../src/Math_calculation.cpp"
+Finished building: ../src/Math_calculation.cpp
+ 
+Building target: Math_calculation
+Invoking: GCC C++ Linker
+g++  -o "Math_calculation"  ./src/Math_calculation.o   
+Finished building target: Math_calculation
+ 
+08:52:14 **** Incremental Build of configuration Debug for project Math_calculation ****
+make all 
+make: Nothing to be done for 'all'.
+08:53:11 **** Incremental Build of configuration Debug for project Math_calculation ****
+make all 
+Building file: ../src/Math_calculation.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Math_calculation.d" -MT"src/Math_calculation.o" -o "src/Math_calculation.o" "../src/Math_calculation.cpp"
+Finished building: ../src/Math_calculation.cpp
+ 
+Building target: Math_calculation
+Invoking: GCC C++ Linker
+g++  -o "Math_calculation"  ./src/Math_calculation.o   
+Finished building target: Math_calculation
+ 
